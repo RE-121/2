@@ -5,7 +5,7 @@ int main()
 {
 	int n = 0;
 	int t = 0;
-	cin >> n; //cin²»ĞèÒªÓĞendl »á±¨´í£¡
+	cin >> n; //æ³¨æ„cinä¸éœ€è¦æœ‰endlï¼
 	while (n != 1)
 	{
 		if (n % 2 == 0)
